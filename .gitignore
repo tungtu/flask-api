@@ -1,0 +1,6 @@
+# Python
+venv
+*.pyc
+
+# PyCharm
+.idea/
