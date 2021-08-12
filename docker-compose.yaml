@@ -1,0 +1,6 @@
+version: "3.3"
+services:
+  flask-app:
+    image: tungtu/flask-api:latest
+    ports:
+      - "5000:5000"
