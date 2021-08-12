@@ -14,7 +14,7 @@ pipeline {
           }
       }
       steps {
-        sh "python run tests"
+        sh "python tests.py"
       }
     }
 
