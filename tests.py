@@ -9,7 +9,7 @@ class TestSimple(unittest.TestCase):
         self.assertEqual(2 + 2, 4)
         
     def test_sum_2_plus_3_equal_5(self):
-        self.assertEqual(2 + 3, 5)        
+        self.assertEqual(3 + 3, 6)        
 
 if __name__ == '__main__':
     unittest.main()
